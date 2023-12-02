@@ -4,10 +4,10 @@
 }
 
 :root{
---clr-BG: #DDD8B8;
---clr-item: #b3cbb9;
---clr-item-borders: #84a9c0;
---clr-font: #6a66a3;
+--clr-BG: #e6e5e0;
+--clr-item: #b3c0cb;
+--clr-item-borders: #62a9d5;
+--clr-font: #222563;
 }
 
 body{
